@@ -53,12 +53,6 @@ Tenho experiência com:
 
 # 📂 Projetos
 
-## 💰 Sistema Financeiro
-Projeto desenvolvido para controle financeiro pessoal com interface moderna e organizada.
-
-## 🗳️ Sistema de Votação
-Aplicação criada utilizando lógica de programação e estrutura web.
-
 ## 🌐 Landing Pages
 Desenvolvimento de páginas modernas e responsivas utilizando HTML, CSS e JavaScript.
 
@@ -67,7 +61,6 @@ Desenvolvimento de páginas modernas e responsivas utilizando HTML, CSS e JavaSc
 # 🎯 Objetivos
 
 Atualmente estou estudando:
-- Engenharia de Software
 - JavaScript
 - React
 - APIs
