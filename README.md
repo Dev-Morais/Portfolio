@@ -1,4 +1,4 @@
-# Meu_portifolio
+# Meu_Portfólio
 
 <h1 align="center">🚀 Gabriel Morais</h1>
 
@@ -86,13 +86,16 @@ Buscando minha primeira oportunidade como desenvolvedor.
 
 # 📱 Contato
 
-📧 Email: seuemail@email.com
+📧 Email:gabrielmoraisdonascimento4@gmail.com
 
 🐱 GitHub:
-https://github.com/SEU_USUARIO
+https:https://github.com/Dev-Morais
 
 💼 LinkedIn:
-https://linkedin.com/in/SEU_LINKEDIN
+https:www.linkedin.com/in/
+gabriel-morais-956bb7248
+Nome fantasia da URL
+
 
 ---
 
