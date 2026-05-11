@@ -88,13 +88,10 @@ Buscando minha primeira oportunidade como desenvolvedor.
 
 📧 Email:gabrielmoraisdonascimento4@gmail.com
 
-🐱 GitHub:
-https:https://github.com/Dev-Morais
+🐱 GitHub:https:https://github.com/Dev-Morais
 
-💼 LinkedIn:
-https:www.linkedin.com/in/
-gabriel-morais-956bb7248
-Nome fantasia da URL
+💼 LinkedIn:https://www.linkedin.com/in/gabriel-morais-956bb7248/
+
 
 
 ---
